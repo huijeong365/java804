@@ -4,6 +4,7 @@ public class Car {
 	// 필드
 	int speed;
 	
+	
 	// 생성자
 	
 	// 메소드
