@@ -5,6 +5,12 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\JavaProgramming\source\chap02"/>
+			<item value="C:\JavaProgramming\source\chap01"/>
+			<item value="C:\JavaProgramming\source\chap03"/>
+			<item value="C:\JavaProgramming\source\chap04"/>
+			<item value="C:\JavaProgramming\source\chap05"/>
+			<item value="C:\JavaProgramming\source\chap06"/>
 			<item value="C:\JavaProgramming\source"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
