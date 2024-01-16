@@ -5,5 +5,6 @@ public class B {
 		A a = new A();
 		a.field = "value";
 		a.method();
+
 	}
 }
