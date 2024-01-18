@@ -2,19 +2,19 @@ package test.test10;
 
 public class Printer {
 
-	public void println(int i) {
+	public static void println(int i) {
 		System.out.println(i);
 	}
 	
-	public void println(boolean j) {
+	public static void println(boolean j) {
 		System.out.println(j);
 	}
 	
-	public void println(double k) {
+	public static void println(double k) {
 		System.out.println(k);
 	}
 	
-	public void println(String l) {
+	public static void println(String l) {
 		System.out.println(l);
 	}
 
