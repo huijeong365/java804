@@ -17,4 +17,8 @@
 <fullyQualifiedTypeName name="sec02.test01.Button.OnClickListener"/>
 <fullyQualifiedTypeName name="sec02.test02.Button.OnClickListener"/>
 <fullyQualifiedTypeName name="sec02.test03.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="java.util.Objects"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.lang.Class"/>
+<fullyQualifiedTypeName name="java.io.UnsupportedEncodingException"/>
 </qualifiedTypeNameHistroy>
