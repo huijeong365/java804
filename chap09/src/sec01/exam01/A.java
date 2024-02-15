@@ -27,7 +27,7 @@ public class A {
 	}
 	
 	void method() {
-		class D{					//로컬 클래스		
+		class D{					//로컬 클래스	//static, public 아무것도 붙이지 못함	
 			D() {
 				System.out.println("D 객체가 생성됨");
 			}
